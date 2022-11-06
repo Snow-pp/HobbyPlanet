@@ -10,18 +10,20 @@
 - 모집글 지역/취미 분류 추가/삭제
 - 부적합한 게시물 삭제
 # Tech stack & Open-source libraries
-### data
-- oracle
 ### front-end
 - HTTP/CSS/JS
 ### back-end
 - spring-legacy
 - maven
+### data
+- Oracle
+### 외부 API
+- 다음(카카오) 우편번호 서비스 API
 # Environment
-- tomcat 9.0
+- OS : Windows
+- Tool : Spring Tool Suit, Visual Studion Code
+- Server : Apachi tomcat 9.0
 - Oracle 11g
-- jdk 1.8
-- STS
 # Usage
 **login**
 - admin - id : system, password : tiger
