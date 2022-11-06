@@ -29,6 +29,7 @@
 2. 압축을 푼 뒤 create 파일로 테이블과 시퀀스 생성
 3. final_hobbyplanet.zip 다운로드
 4. Spring Framework로 Import
+
 **login**
 - admin - id : system, password : tiger
 - user - id : hobbyp, password : hobbyp
